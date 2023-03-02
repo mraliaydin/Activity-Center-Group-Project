@@ -28,6 +28,6 @@ Users can:
 </p>
 
 ## Contributors
--Ali Aydın
+-Ezgi Melis Coşar
 <br>
 -İrem Civek
